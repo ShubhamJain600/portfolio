@@ -1,0 +1,39 @@
+h2 {
+	font-size: 2.5em;
+}
+
+.cover {
+	color: white;
+	background-color: black;
+}
+
+.cover img {
+  max-width: 600px;
+  width:100%;
+}
+
+main {
+	background-image: url("background_img.jpg");
+	background-color: rgba(224, 224, 224, 0.2);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+.skills ul{
+	font-size: 2em;
+}
+
+.about_me img {
+	max-height: 375px;
+	max-width: 375px;
+}
+
+.contact ul{
+	font-size: 2em;
+}
+
+.contact li:hover{
+	font-size: 120%
+}
